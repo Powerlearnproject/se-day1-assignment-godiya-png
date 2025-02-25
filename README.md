@@ -15,7 +15,7 @@ Security:  implement protection practice like authentication, authorization and 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-mastering complexity: mastering this complexity becomes critical to ensuring relaiability and performance
+
 Mastering process: the process involves a structured approach to software development ensuring efficiency,quality,and adaptability.
 Mastering machine: Mastering machine refers to understanding and optmizing how software interacts with hardware, operating system, and computational resources.
 
