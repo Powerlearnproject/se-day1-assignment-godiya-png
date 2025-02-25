@@ -117,3 +117,6 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 Clarity: The improved prompt specifies what is being asked (a full-body portrait) rather than just a "person.
 Specific Details: Describing the woman's appearance (long brown hair, red jacket, blue jeans) and the setting (park, sunny day, trees, grass) gives clear guidance on the image to be created.
 Concise: The additional details provide a clear picture without being overly complicated, making it easier for the artist to understand exactly what is needed.
+
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
